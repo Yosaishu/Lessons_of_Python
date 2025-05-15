@@ -1,8 +1,8 @@
 import os
 import shutil
 
-source_folder = "C:/Users/iluha/Downloads"
-destination_folder = "D:/Archive"
+source_folder = " "
+destination_folder = " "
 
 def moving (source_folder, destination_folder):
     files = os.listdir(source_folder)
